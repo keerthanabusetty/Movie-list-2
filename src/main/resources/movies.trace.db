@@ -1,0 +1,30 @@
+2024-05-27 05:52:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 05:52:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:10:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:10:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:19:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:19:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:24:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:24:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:40:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
+2024-05-27 06:40:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update MOVIELIST set movieName [*]where movieId = ?"; expected "., ="; SQL statement:
+update MOVIELIST set movieName where movieId = ? [42001-214]
